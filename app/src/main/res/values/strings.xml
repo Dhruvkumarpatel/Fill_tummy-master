@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fill_tummy</string>
+    <string name="Location">Location</string>
+    <string name="foodtype">Food Type</string>
+    <string name="distance">Distance</string>
+    <string name="price">Price</string>
+    <string name="submit">SUBMIT</string>
+    <string-array name="type">
+        <item>Publisher</item>
+        <item>User</item>
+    </string-array>
+    <string-array name="spinnerfood">
+        <item>vegetarian</item>
+        <item>Non-vegetarian</item>
+    </string-array>
+</resources>
+
